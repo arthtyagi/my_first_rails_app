@@ -1,5 +1,7 @@
 # README
 
+#### The first project to complete in TheOdinProject's curriculum.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
